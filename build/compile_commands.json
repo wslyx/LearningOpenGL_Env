@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/CodeSpace/OpenGL/build",
+  "command": "D:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/Triangle.dir/includes_CXX.rsp -Os -DNDEBUG -std=gnu++11 -o CMakeFiles\\Triangle.dir\\Triangle.cpp.obj -c E:\\CodeSpace\\OpenGL\\Triangle.cpp",
+  "file": "E:/CodeSpace/OpenGL/Triangle.cpp"
+},
+{
+  "directory": "E:/CodeSpace/OpenGL/build",
+  "command": "D:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/Triangle.dir/includes_CXX.rsp -Os -DNDEBUG -std=gnu++11 -o CMakeFiles\\Triangle.dir\\glad\\src\\glad.cpp.obj -c E:\\CodeSpace\\OpenGL\\glad\\src\\glad.cpp",
+  "file": "E:/CodeSpace/OpenGL/glad/src/glad.cpp"
+}
+]
